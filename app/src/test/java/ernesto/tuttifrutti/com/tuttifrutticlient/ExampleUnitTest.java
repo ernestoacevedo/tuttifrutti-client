@@ -1,4 +1,4 @@
-package com.tuttifrutti.ernesto.tuttifrutticlient;
+package ernesto.tuttifrutti.com.tuttifrutticlient;
 
 import org.junit.Test;
 
