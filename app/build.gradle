@@ -4,8 +4,8 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.3"
     defaultConfig {
-        applicationId "com.tuttifrutti.ernesto.tuttifrutticlient"
-        minSdkVersion 19
+        applicationId "ernesto.tuttifrutti.com.tuttifrutticlient"
+        minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
